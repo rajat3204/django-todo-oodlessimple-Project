@@ -1,5 +1,5 @@
 version: '3.3'
-service:
+services:
   django:
     image: rajat3204/django
     ports:
