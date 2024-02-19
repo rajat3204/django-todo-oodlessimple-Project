@@ -5,5 +5,5 @@ COPY . .
 RUN python manage.py migrate
 
 CMD ["python","manage.py","runserver","0.0.0.0:8000"]
-#this file container changes from the github.
+#this file container changes from the GITHUB.
 #these changes are made for the testing purposes.
